@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<hr>
+<h3 align="center">Ey! Hola👋</h3>
+<h1 align="center">Soy Matias Vazquez</h1>
 
 <!--
 **MatVaz14/MatVaz14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

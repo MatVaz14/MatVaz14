@@ -8,7 +8,7 @@
 
 <hr>
 
-<h2>Sobre mi...</h2>
+<h2>🌐 Sobre mi...</h2>
 <p>Actualmente tengo 21 años de edad, estudiante en Ingeniería en Sistemas, y también, logrando cumplir mi primera meta, ser DESARROLLADOR FULLSTACK.
   <br/>
   Desde hace unos años, he pasado y sigo pasando por muchos momentos difíciles, han habido muchos obstáculos y grandes desafíos, pero a pesar de las caidas, siempre busco levantarme con mucho optimismo y esfuerzo, con el fin de poder cumplir mis proyectos y metas.
@@ -16,10 +16,10 @@
   Me encanta la programación, hace varios años atrás comencé de forma autodidacta con la programación, pero me sentía estancado, sin saber si iba por el camino correcto del aprendizaje, y unos años más tarde, hasta la actualidad, se me presentó la oportunidad nuevamente para cumplir esa meta.
 </p>
 
-<h2> Que hago? </h2>
+<h2>🌐 Que hago? </h2>
 <p>Actualmente estoy trabajando en proyectos pequeños, investigando, estudiando, aprendiendo día a día para mejorar mis habilidades y conocimientos para poder brindar mis servicios de la mejor manera.</p>
 
-<h2> Tecnologías </h2>
+<h2>🌐 Tecnologías </h2>
 <p>Actualmente estoy usando / aprendiendo, las siguientes tecnologías...<br/></p>
 
 <table align="center">

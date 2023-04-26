@@ -26,7 +26,7 @@ No duden en contactarme!<br />
 <p>Actualmente estoy trabajando en proyectos pequeños, investigando, estudiando, aprendiendo día a día para mejorar mis habilidades y conocimientos para poder brindar mis servicios de la mejor manera.</p>
 
 <h2>🌐 Tecnologías </h2>
-<p>Actualmente estoy usando / aprendiendo, las siguientes tecnologías...<br/></p>
+<p>Tengo experiencia en las siguientes tecnologías...<br/></p>
 
 <table align="center">
   

@@ -10,11 +10,16 @@
 <hr>
 
 <h2>🌐 Sobre mi...</h2>
-<p>Actualmente tengo 21 años de edad, estudiante en Ingeniería en Sistemas, y también, logrando cumplir mi primera meta, ser DESARROLLADOR FULLSTACK.
-  <br/>
-  Desde hace unos años, he pasado y sigo pasando por muchos momentos difíciles, han habido muchos obstáculos y grandes desafíos, pero a pesar de las caidas, siempre busco levantarme con mucho optimismo y esfuerzo, con el fin de poder cumplir mis proyectos y metas.
-  <br/>
-  Me encanta la programación, hace varios años atrás comencé de forma autodidacta con la programación, pero me sentía estancado, sin saber si iba por el camino correcto del aprendizaje, y unos años más tarde, hasta la actualidad, se me presentó la oportunidad nuevamente para cumplir esa meta.
+<p>Hola 😃! Mi nombre es Matias Vazquez, soy Desarrollador Web Fullstack y actualmente también, estudiante de Ingeniería en Sistemas de Información.<br />
+Hace un par de meses, tomé la decisión de iniciar un Bootcamp de Programación, el cual me permitió mejorar y tener más experiencia con Javascript, HTML, CSS, React, Redux, Express, entre otras tecnologías.<br />
+Tuve la oportunidad de participar en proyectos que me permitieron experimentar y mejorar Habilidades Blandas como el Trabajo en Equipo, Adaptabilidad, Liderazgo, Perseverancia, etc.<br />
+Soy una persona que no tiene en sus planes rendirse; Logro aprender de mis errores, y a pesar de todos los obstáculos y caídas, siempre busco la forma de volverme a levantar con mucho optimismo y esfuerzo para seguir adelante.<br />
+Me apasiona seguir aprendiendo y creciendo tanto personal como profesionalmente. Desde niño me encantó la tecnología, me asombra lo todo lo que puede lograrse con su uso, lo cual, me lleva a tener una gran variedad de proyectos en mente para dejar un buen impacto en el ámbito social y natural.<br />
+Cuento con la pasión, motivación, energía, positividad, compromiso y mucho más para poder dar lo mejor de mí y desarrollarme de la mejor manera en la industria.<br />
+En estos momentos estoy en busca de poder desempeñar mis conocimientos en el mundo real y comenzar a dar vida a los proyectos que alguna vez soñé.<br />
+No duden en contactarme!<br />
+✉️ mativazquez-29@outlook.com<br />
+📞 +54 2604812349
 </p>
 
 <h2>🌐 Que hago? </h2>
